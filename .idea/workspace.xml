@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64dee8f6-f2dd-4a22-a144-5c6847284587" name="Changes" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/backend/routes/managerRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/ExpensesService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/GroupService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/services/UserService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/EmployeesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/layout/ManagerDashboardLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/expenseRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/expenseRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/groupRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/groupRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/userRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/userRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/services/ExpensesService.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/services/ExpensesService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/GroupRequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/GroupRequests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/RecentRequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/RecentRequests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/UserRequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/UserRequests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/layout/ManagerDashboardLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/layout/ManagerDashboardLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/api.js" afterDir="false" />
+>>>>>>> origin/main
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ofM7AnieuA3aDl6Pn9WDjCuxmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging EmployeesPage",
+    "last_opened_file_path": "C:/Users/PC/Desktop/RIRS/rirs_vaje/RIRS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\PC\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-frontend-manager-dashborad&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/RIRS/rirs_vaje/RIRS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\PC\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> origin/main
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64dee8f6-f2dd-4a22-a144-5c6847284587" name="Changes" comment="" />
+      <created>1731256008658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731256008658</updated>
+      <workItem from="1731256009899" duration="1898000" />
+      <workItem from="1731258276745" duration="8800000" />
+      <workItem from="1731442424834" duration="447000" />
+      <workItem from="1731444025221" duration="14587000" />
+<<<<<<< HEAD
+      <workItem from="1731498903577" duration="355000" />
+=======
+>>>>>>> origin/main
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-manager-dashboard" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
